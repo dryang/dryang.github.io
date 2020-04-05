@@ -1,4 +1,4 @@
-台灣
+$c_start台灣$c_end
 三立新聞台,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 年代新聞,mitv://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
@@ -79,7 +79,7 @@ TVBS精采台HD,mitv://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts
 中天亞洲台,mitv://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
 中天娛樂,mitv://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
 中天綜合,mitv://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
-AV
+$c_startAV$c_end
 香蕉台,p2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
 HOT星顏,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 松視1台,p2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
@@ -105,7 +105,7 @@ HAPPY幸福,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 歐美9,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 歐美10,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
 歐美11,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-電影
+$c_start電影$c_end
 月殞天劫,https://youku.com-qq.net/20190607/3609_b3808ef6/index.m3u8
 屍袋,http://vip.yingshidaqian.com/20180705/cpIrHgUm/index.m3u8
 鬼作秀2,http://hair.jingpin88.com/20171114/m72G3p3u/index.m3u8
@@ -134,7 +134,7 @@ HAPPY幸福,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 亞洲怪談4,https://youku.iqiyi-yongjiu.com/20181105/7ufRnTJY/index.m3u8
 亞洲怪談5,https://youku.iqiyi-yongjiu.com/20181105/tBHhLewe/index.m3u8
 亞洲怪談6,https://youku.iqiyi-yongjiu.com/20181112/oGvl9FdK/index.m3u8
-輪播
+$c_start輪播$c_end
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 經典作品,http://aldirect.rtmp.huya.com/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
@@ -155,7 +155,7 @@ HAPPY幸福,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 周潤發,http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
 甄子丹,http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
 西遊記,http://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_2000.m3u8
-華數
+$c_start華數$c_end
 華數TV-08,http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
 華數TV-14,http://hls-ott-zhibo.wasu.tv/live/365/index.m3u8
 華數TV-15,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
@@ -171,7 +171,7 @@ HAPPY幸福,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 華數TV-33,http://hls-ott-zhibo.wasu.tv/live/415/index.m3u8
 華數TV-34,http://hls-ott-zhibo.wasu.tv/live/420/index.m3u8
 華數TV-35,http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
-iHOT
+$c_startiHOT$c_end
 iHOT愛奇談,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT愛懸疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHOT愛喜劇,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -195,7 +195,7 @@ iHOT愛科學,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 iHOT愛旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 iHOT愛探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
 iHOT愛院線,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
-日韓
+$c_start日韓$c_end
 日韓1,https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
 日韓2,https://www.800-cdn.com/20191104/BmPJsJib/index.m3u8
 日韓3,https://www.800-cdn.com/20191104/FOYD2Arr/index.m3u8
@@ -246,7 +246,7 @@ iHOT愛院線,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888
 日韓48,http://video.jiagew762.com:8091/20180616/BpzeWWhs/index.m3u8
 日韓49,http://video.jiagew762.com:8091/20180616/4QUnWwoD/index.m3u8
 日韓50,http://video.jiagew762.com:8091/20180616/Ddwhp9yH/index.m3u8
-A影
+$c_startA影$c_end
 色戒,http://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
 蘋果,http://qqc1107.phpdaniu.com/japan/20190821/xKAFD0kH/800kb/hls/index.m3u8
 醜聞,http://qqc1107.phpdaniu.com/japan/20190821/7vpRqM9k/index.m3u8
