@@ -29,7 +29,6 @@ FOX動作電影,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
 華視,http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 中視,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
-中視HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 中天綜合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娛樂,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 八大綜合,http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
@@ -44,7 +43,6 @@ FOX動作電影,http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 RTHK_31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-p.m3u8
 RTHK_32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 漳州1,http://222.186.61.82/lms_31182/tv_channel_175__redirect__31182.m3u8
-美國中文台,http://ec.sinovision.net/video/ts/lv.m3u8
 中國氣象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CCTV4,http://61.58.60.230:9319/live/220.m3u8
 CCTV戲曲,http://61.58.60.230:9319/live/223.m3u8
@@ -66,9 +64,7 @@ CCTV娛樂,http://61.58.60.230:9319/live/224.m3u8
 安徽國際,http://61.58.60.230:9319/live/237.m3u8
 河南國際,http://61.58.60.230:9319/live/240.m3u8
 雲南國際,http://61.58.60.230:9319/live/241.m3u8
-靖天映畫,http://61.58.60.230:9319/live/244.m3u8
 澳亞衛視,http://61.58.60.230:9319/live/256.m3u8
-香港衛視,http://61.58.60.230:9319/live/255.m3u8
 $c_start台灣2$c_end
 TVBS新聞,mitv://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
 東森新聞,mitv://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1#mitv://170.178.164.243:6210/5b448ad9000732770003ae545bf7ba34.ts
