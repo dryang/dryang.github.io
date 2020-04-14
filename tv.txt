@@ -236,12 +236,11 @@ HAPPY幸福,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 歐美10,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
 歐美11,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
 $c_start電影$c_end
+预言,http://youku.cdn7-okzy.com/20200401/18422_e1704f87/index.m3u8
 月殞天劫,https://youku.com-qq.net/20190607/3609_b3808ef6/index.m3u8
-屍袋,http://vip.yingshidaqian.com/20180705/cpIrHgUm/index.m3u8
 鬼作秀2,http://hair.jingpin88.com/20171114/m72G3p3u/index.m3u8
 黑暗面,http://vip.yingshidaqian.com/20180615/o6G7dc9A/index.m3u8
 致命彎道5,http://vip.yingshidaqian.com/20180615/7lK3gmef/index.m3u8
-紅衣小女孩2,https://yong.yongjiu6.com/20171207/1zKpWLkC/index.m3u8
 下水道的美人魚,https://v2.yongjiujiexi.com/20170927/DpwxToC1/index.m3u8
 鬼學長,https://v8.yongjiu8.com/20170915/B4evyf75/index.m3u8
 致命迷路,http://vip.yingshidaqian.com/20180706/1fwHPZQ2/index.m3u8
@@ -253,10 +252,8 @@ $c_start電影$c_end
 生吃,http://leshi.cdn-zuyida.com/20171018/jxM8EMIz/index.m3u8
 我唾棄你的墳墓2,http://cn2.zuidadianying.com/20171128/dcyWOtxO/index.m3u8
 大漢風之指鹿為馬,https://leshi.zuidameiju.com/20181115/6Wt3rKBm/index.m3u8
-竹夫人,https://gaoqing.bibi-baidu.com/20190716/5254_f01fc6bc/index.m3u8
 烹夫,https://gaoqing.bibi-baidu.com/20190717/5355_7b184d55/index.m3u8
 雙鐲,https://gaoqing.bibi-baidu.com/20190806/6519_5aebd5fe/index.m3u8
-伊波拉病毒,https://gaoqing.bibi-baidu.com/20190729/6060_8bc282c3/index.m3u8
 女集中營,https://iqiyi.zuidameiju.com/20181124/eZNxnaa1/index.m3u8
 亞洲怪談1,https://youku.iqiyi-yongjiu.com/20181008/FUmKyWdG/index.m3u8
 亞洲怪談2,https://youku.iqiyi-yongjiu.com/20181023/h1LLMm6r/index.m3u8
