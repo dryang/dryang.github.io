@@ -191,7 +191,7 @@ HBO Family HD,tvbus://3oBzPJbzTnk2D2aZs1owFBtbBrnoZDJnhhPeuZ3iPUbrTb4srA
 HBO Signature HD,tvbus://3h9EU9GVmXwMsdYrB5MbHmSSyS7TGHhbriFPpe1VrTsx7AiKqH
 Cinemax HD,tvbus://35ukuw2JYFS9ZPfVJP5xS5uSA3zPRNqTAR9khEtDfZ6Jh72c4Q
 TLC HD,tvbus://42jhzcHofzj7vAhuHHRoTH7gb4XHGQHWe7tuPH9zdp7YXxsZZv
-大陸/China,genre
+大陸,#genre#
 CCTV1,tvbus://3sE7V4EfT4ABijrGMpfjy9JFa1cAbCrMaQtGfLRmpvJNrgbkrZ
 CCTV2,tvbus://3asn7Up7Zn4SaZnSgn22Nm6wF9whAQLoDR3GwfJ4YK7i26YKc8
 CCTV3,tvbus://3jaRBsZVr66mGM5L3pbWVkuTHdmbGeETR25dTJEcZeTACh7UMs
@@ -256,7 +256,7 @@ CCTV懷舊劇場,p8p://0198.02686.cc:16871/5d1a69a20001626a11bd964cbfa22b6d.ts
 河北衛視,p8p://0198.02686.cc:16871/5d1a69c7000bf64e11be298959e31717.ts
 第一財經,p8p://0198.02686.cc:16871/5d1a69df000139dd11be8489e1d7a141.ts
 愛奇藝,tvbus://3KdQmsHHv9grz9X5HeAPsWjjXvaXqSpCMYoQioBhLoMMahvcWv
-體育/sport,genre
+體育,#genre#
 緯來體育_HD,tvbus://2z433RhP2nY9CDpLhVWhHXs3iwUxRZbu7mZeHBb4DSPZ3Zn736
 FOX_運動_HD,tvbus://4s9mLzSWMnD3kLXGTJHZPhefn7DnuKugcVuzm6sdRgQNEEvd8U
 FOX_SPORTS_2,tvbus://3tu3LpWa2nW5We4s5oK9VGxd8RTuKmCtEWWVVNDrn8L69a6uq4
@@ -369,7 +369,7 @@ BEIN_SPORT9,tvbus://3X7hgN5zEf7S1GxHiDE34QoPGx6S53ALhfsNphetjHeKoYbgYk
 BEIN_SPORT10,tvbus://4ai7HihdoTMZ1Vyprfk3ePYQugQ3d6aQff3axyk57f2pNYg49z
 BEIN_SPORT11,tvbus://4oGU3APwUghJ7JkdYP5MqegUBNy4Sa9cs6VMTPeihRYmQS2iRL
 BEIN_SPORT12,tvbus://4MqBfewDm9TxYy8nCMVYC4MhKdgCsV9PTG5KrYZXzfF4TDhgZq
-新聞/News,genre
+新聞,#genre#
 CNN_國際,tvbus://3TzruULpqcD5bjBjWBmUY4UdqH8eboy88JrU4LgXJHsqoJBdbq
 SKY_NEWS,tvbus://49PQ4VKSjCzQnfhcSmRJaXhfpymuTJSjBhZbKN6NXqAnWXdiCn
 壹電視新聞臺,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw
@@ -431,7 +431,7 @@ BIG_Magic_HD,p8p://0198.02686.cc:16871/5d3306dd000b7c0f3e2c3bdbaa2c7e3c.ts
 NET25,tvbus://3tiU86b5feNpReNSqr99ktNJwxwjaWr9xdsWPXBSjZ3iCAf2Di
 DZRHNEWS,tvbus://4ZyQav4Npodi8DZ7TZLeGa5ahqo5MzktuCrQUUtw9MWvnGFbKS
 CGTN,tvbus://12WRKUDF1FLsaY1NEYMDtc6X64evVFFsxWwsebMBCC34e1NzBdV
-電影/Movies,genre
+電影,#genre#
 愛爾達影劇臺,tvbus://4XaXTY5KrLbztAaGsyLAStwtuMBdsKBKVzWoMGf6xxifh42rnm
 東森戲劇_HD,tvbus://48YdGGajPQbNsDGt7jePrtPkm13fqKxecE4L3n7LPernZnBCHg
 八大戲劇,tvbus://4QUUE7V9TAw3qdn4kUQHhgSoHsTtExD7gvgtFQJocaDS53g5HG
